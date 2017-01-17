@@ -1,0 +1,23 @@
+{
+  "name": "MF_USER_NOTES",
+  "homepage": "https://github.com/jaredshane/MF_USER_NOTES",
+  "authors": [
+    "Jared Fuller <jaredshane@gmail.com>"
+  ],
+  "description": "",
+  "main": "",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "firebase": "^3.6.5",
+    "angular": "^1.6.1",
+    "angular-route": "^1.6.1",
+    "bootstrap": "^3.3.7"
+  }
+}
